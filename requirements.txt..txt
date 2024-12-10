@@ -2,5 +2,5 @@
 
 streamlit
 alpaca-trade-api
-yfinance
+yfinance==0.2.18
 python-dotenv
