@@ -1,6 +1,0 @@
-
-
-streamlit
-alpaca-trade-api
-yfinance==0.2.18
-python-dotenv
