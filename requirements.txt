@@ -1,6 +1,0 @@
-
-
-streamlit
-alpaca-trade-api
-yfinance
-python-dotenv
