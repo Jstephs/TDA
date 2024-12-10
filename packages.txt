@@ -1,3 +1,0 @@
-libatlas-base-dev
-libta-lib-dev
-
