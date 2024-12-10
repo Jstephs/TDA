@@ -1,0 +1,8 @@
+streamlit
+yfinance
+plotly
+textblob
+requests
+tweepy
+python-dotenv
+alpaca-trade-api
